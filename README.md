@@ -1,2 +1,2 @@
 # Thesis_MFRSR
-* Technologies : Apache PySpark, AWS EMR, EC2, S3
+* Technologies : Apache PySpark, MLib, AWS EMR/EC2/S3
